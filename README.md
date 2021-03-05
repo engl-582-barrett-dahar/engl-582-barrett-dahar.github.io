@@ -2,4 +2,4 @@
 Wesley Dahar and Isaac Barrett
 
 
-[First PowerPoint](docs/Semantic Drift Velocity Change in Meaning Over Time.pdf)
+[First PowerPoint](./docs/Semantic Drift Velocity Change in Meaning Over Time.pdf)
