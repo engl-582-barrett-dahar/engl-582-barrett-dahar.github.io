@@ -1,2 +1,5 @@
-# engl-582-barrett-dahar.github.io
-Seminar in Computational Lingustics
+# Semantic Drift Velocity: Change in meaning over time
+Wesley Dahar and Isaac Barrett
+
+
+[First PowerPoint](./docs/"Semantic Drift Velocity Change in Meaning Over Time.pdf")
