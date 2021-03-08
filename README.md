@@ -20,8 +20,8 @@ We will collect publically available works of literature in the Gutenberg Archiv
 ### Experimental Design
 Our experiment will consist of training models with their respective corpora and then measuring the relative cosine distance of embeddings for an identified set of words given different embedding models and recording the similarities and differences in word associations (e.g. their average, median, standard deviation, etc). We will look for instances in which certain categories of words exhibit bias toward factors such as gender and race.
 The dependent variable is the cosine measure, while the independent variables are
-- __t__: The time span used for training the model. This factor will have one of four values: 10, 25, 50, or 100 years.
-- __n__:  The number of words considered for exploring proximal neighbors in embedding space. Our analysis will consider 5-10 word embeddings each for different word categories reflecting gender, race, and philosophical/political movements.
+- _t_: The timespan used for training the model. This factor will have one of four values: 10, 25, 50, or 100 years.
+- _n_:  The number of words considered for exploring proximal neighbors in embedding space. Our analysis will consider 5-10 word embeddings each for different word categories reflecting gender, race, and philosophical/political movements.
 
 All models will be trained on corpora consisting of the same number of words and same number of authors to control for artifacts associated with the size of the training data. We will sample text from the beginning of the text to the max length of words, and discard subsequent text. Any header/footer from Gutenberg will be discarded prior to training the models. 
 
